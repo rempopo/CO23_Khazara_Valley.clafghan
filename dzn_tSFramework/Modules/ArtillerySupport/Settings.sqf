@@ -13,8 +13,8 @@ tSF_ArtillerySupport_AdjustFireExpirationTimeout	= 5*30;	// Expirtation Timeout 
 /*
  *	AI Crew
  */ 
-tSF_ArtillerySupport_CrewClassname 	= "B_Soldier_unarmed_F";
-tSF_ArtillerySupport_CrewKitname 	= "";
+tSF_ArtillerySupport_CrewClassname 	= "O_Soldier_F";
+tSF_ArtillerySupport_CrewKitname 	= "kit_sov_r";
 
 /*
  *	Firemissions properties 
